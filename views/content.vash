@@ -1,0 +1,4 @@
+<main data-page-title="@model.title">
+  <h1>@model.heading</h1>
+  <p>@model.message</p>
+</main>
